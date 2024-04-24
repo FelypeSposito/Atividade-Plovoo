@@ -1,0 +1,112 @@
+body{
+    background-image: linear-gradient(#286464, #026773, #024959, #012E40) }
+
+/*.inicio{background-image: linear-gradient(white, grey)}*/
+
+h1{text-shadow: white 2px 2px 1px}
+
+.inicio{font-family: 'Courier New', Courier, monospace;
+font-size: 40px;
+padding: 1px;
+height: 150px;
+margin-top: ;
+border: 2px solid black;
+}
+
+h2{text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{  color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tre{background-color: #026773;}
+
+nav{;
+    background-color: #012E40;
+    height: 20px;
+    
+}
+
+#link1{padding-right: 70px;}
+
+#link2 {text-align: center;
+padding-right: 40px;
+padding-left: 20px;}
+
+#link3 {padding-left: 65px;
+;}
+
+hr{border: 1px solid black;
+    box-shadow: 2px 8px 20px;
+}
+
+#h22{margin-top: 40px;
+    text-shadow: white 1px 1px 1px;
+font-size: 170%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-shadow: rgb(0, 0, 0) 2px  2px 2px;
+color: white;}
+
+
+.povo {margin-top: 70px;}
+
+#pp{margin-top: 50px;
+margin-left: 40px;
+margin-right: 40px;
+margin-bottom: 0px;
+text-shadow: rgb(0, 0, 0) 1px  1px 1px;
+color: white;}
+
+.div1 {
+    overflow: auto;
+padding: 10px;
+text-shadow: rgb(0, 0, 0) 1px  1px 1px;
+color: white;
+}
+
+.div1 img{
+    float: left;
+border: 3px solid white;
+box-shadow: -8px 5px 8px
+}
+
+.pdiv1{margin-top: 80px;
+margin-left: 512px;}
+
+.pipi{text-shadow: black 2px  2px 2px;
+color: white;}
+
+.div2 {
+    overflow: auto;
+padding: 10px;
+color: white;text-shadow: black 1px  1px 1px;
+}
+
+.div2 img{
+    float: right;
+padding-right: 40px;
+padding-left: 1cm;
+margin-top: 90px;
+}
+
+.pdiv2 {margin-top: 50px;
+    text-shadow: black 1px  1px 1px;}
+
+.presultado, .h2do, .sustentavel{text-align: center;
+   }
+
+   .h2do{ text-shadow: black 2px 2px 2px}
+
+.sustentavel {border: 3px solid rgb(255, 255, 255);
+    box-shadow: 10px 10px 10 px}
+
+
+h2{margin-top: 90px;}
+
+
+.pinoia{color: white;
+    text-shadow: black 1px  1px 1px;}

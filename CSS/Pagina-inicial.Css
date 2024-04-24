@@ -1,0 +1,70 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-image: linear-gradient( #dfdfdf, #a8a8a8, #777777, #414141) }
+
+/*.inicio{background-image: linear-gradient(white, grey)}*/
+
+h1{text-shadow: white 2px 2px 1px;}
+
+.inicio{font-family: 'Courier New', Courier, monospace;
+font-size: 40px;
+padding: 1px;
+height: 150px;
+border: 2px solid black;
+overflow: hidden;
+}
+
+p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{  color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tre{background-color: #cecece;}
+
+nav{;
+    background-color:black;
+    height: 20px;;
+    
+}
+
+#link1{padding-right: 50px;}
+
+#link2 {text-align: center;
+padding-right: 30px;
+padding-left: 20px;}
+
+#link3 {padding-left: 50px;
+;}
+
+hr{border: 1px solid black;
+    box-shadow: 2px 8px 20px;
+}
+
+h3{text-align: center;
+font-size: 30px}
+
+div, ol, li, .links{text-align: center;}
+
+#Terrestres {font-size: 30px;color: rgb(245, 203, 203);}
+
+#Aereos{font-size: 30px}
+
+#Marinhos{font-size: 30px;
+color: rgb(199, 199, 255);}
+
+.voa{margin-bottom: 50px;}
+
+.anda{margin-bottom: 50px;}
+
+.nada{margin-bottom: 50px;}
+
+div{overflow: auto;}
+
+div img{float}
+
+.ultimop{color: white;}
